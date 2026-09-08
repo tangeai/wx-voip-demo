@@ -6,7 +6,7 @@
 
 请从 [Releases](https://github.com/tangeai/wx-voip-demo/releases) 下载对应平台的发布包：
 
-- 模拟器版本：`v2.3.1`
+- 模拟器版本：`v2.3.2`
 - TiRTC 版本：`v2.3.0`
 
 - macOS Apple Silicon：`wx-voip-demo-darwin-arm64-<TiRTC版本>-<模拟器版本>.tar.gz`
